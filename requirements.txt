@@ -10,7 +10,7 @@ mccabe==0.6.1
 oauthlib==2.1.0
 pylint==1.9.1
 python-twitter==3.4.1
-PyYAML==3.12
+PyYAML==5.1
 requests==2.20.0
 requests-oauthlib==0.8.0
 six==1.11.0
